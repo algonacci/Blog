@@ -1,16 +1,11 @@
 ---
-title: 'Python Book Review'
-date: 'March 7, 2021'
-excerpt: 'In this review, we will be looking at the new Python book from Oriley'
-cover_image: '/images/posts/img6.jpg'
+title: 'Freeducation for Free Education'
+date: 'December 26, 2021'
+excerpt: 'This is Freeducation and the story behind it.'
+cover_image: '/images/posts/freeducation.jpg'
 ---
 
-Lorem markdownum fine incustoditam unda factura versum occuluere Aeneas, iuvat
-haec praepes [partes epulae](http://cui.com/), in egisse de. Caecisque ter
-manus. Munere in exhalat, ferre sed [habe quaeque saepe](http://ne.org/fretum)
-verba caput ferarum _nubila_? Patriam Cyparisse tamen, **saxum** fide postponere
-pavida ne omnes etiam, atque. Sonuit omina sed sine haerebat illic fit a mora
-in.
+[Freeducation](https://freeducation.netlify.app)
 
 1. Serrae enim Etruscam aquis
 2. Et premis et flumine frontem minatur oppressos
