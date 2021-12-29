@@ -2,7 +2,7 @@
 title: 'Freeducation for Free Education'
 date: 'December 26, 2021'
 excerpt: 'This is Freeducation and the story behind it.'
-cover_image: '/images/posts/freeducation.jpg'
+cover_image: '/images/posts/freeducation.png'
 ---
 
 [Freeducation](https://freeducation.netlify.app)
